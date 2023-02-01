@@ -1,4 +1,6 @@
-### Hi there 👋
+![wordart](https://user-images.githubusercontent.com/90269980/216022855-c4607c68-99ff-4229-90d0-03831078c57a.png)
+
+
 
 <!--
 **laurabpaulsen/laurabpaulsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
